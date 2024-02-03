@@ -1,0 +1,16 @@
+{
+    "discography": [
+      {
+        "id": 1,
+        "title": "Album Title 1",
+        "releaseYear": 2020,
+        "songs": [
+          {
+            "title": "Song Title 1",
+            "duration": "3:45"
+          }
+        ]
+      }
+    ]
+  }
+  
